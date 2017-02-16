@@ -1,2 +1,4 @@
 # CountData
-simply it count words and character from the given sentences.
+>Assignment01, Java
+
+Simply it count words and characters from the given sentence.
